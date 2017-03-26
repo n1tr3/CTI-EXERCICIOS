@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <locale.h>
+
+main ()
+{
+	setlocale(LC_ALL,"Portuguese");
+	printf("Jogo:Call of Duty:Black ops 3\n");
+	printf("Produtora:Activision\n");
+	printf("Plataformas:Windows,XboxOne,Playstation4n\n");
+	printf("Ano de criação:6 de novembro de 2015\n\n");
+	printf("jogo:League of legends\n");
+	printf("Produtora:Riot games\n");
+	printf("Plataforma:Computador\n");
+	printf("Ano de criação:27 de outubro de 2009");
+	
+}
